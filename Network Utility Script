@@ -1,0 +1,2 @@
+This Python script provides a set of network utility functions to perform various network-related tasks using the nmap and dns.resolver libraries. It offers a simple interface for resolving domain names to IP addresses, retrieving mail exchange (MX) records, scanning for open ports, detecting operating systems, identifying running services, and mapping networks.
+
